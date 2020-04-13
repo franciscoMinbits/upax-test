@@ -1,0 +1,6 @@
+framework module Pods_list_nps_list_npsUITests {
+  umbrella header "Pods-list-nps-list-npsUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
